@@ -1,2 +1,2 @@
 # EComm-Purchases
-Data analysis and exploration of some Ecommerce purchase dataset.
+Some quick data analysis/exploration of some ecommerce purchase dataset for practice.
